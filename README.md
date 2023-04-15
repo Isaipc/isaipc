@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaí</h1>
 <h3 align="center">A passionate and dedicated web developer with 3+ years of experience creating dynamic web applications using cutting-edge frameworks like Laravel, Vue, and ASP.NET, eager to continue learning and contribute to the community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaipc&label=Profile%20views&color=0e75b6&style=flat" alt="isaipc" /> </p>
-
-- 🔭 I’m currently working on [Materiales Rodríguez Ecommerce](http://materialesrdgz.com)
+- 🔭 I’m currently working on custom web projects
 
 - 🌱 I’m currently learning **NodeJS and React**
 
